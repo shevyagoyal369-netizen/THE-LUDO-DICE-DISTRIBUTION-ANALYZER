@@ -69,16 +69,3 @@ Sum   Count        Percentage
 │── main.c
 │── README.md
 └── output.txt (optional)
-
-
----
-
-If you want, I can also create:
-
-• a project explanation PDF
-• a flowchart
-• a block diagram
-• comments inside the C code
-• a final conclusion section for your assignment
-
-Just tell me!
